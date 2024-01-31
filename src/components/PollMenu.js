@@ -2,7 +2,7 @@ import React from 'react'
 
 function PollMenu() {
   return (
-    <div>
+    <div className='main-polls'>
       <div>create polls</div>
       <div>my polls</div>
       <div>poll list</div>

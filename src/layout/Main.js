@@ -1,9 +1,8 @@
 import React from 'react'
 import HomePage from '../pages/HomePage'
-
 function Main() {
   return (
-    <div>
+    <div id='mainPage'>
       <HomePage/>
     </div>
   )
